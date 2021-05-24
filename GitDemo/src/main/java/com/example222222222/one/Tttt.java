@@ -6,6 +6,6 @@ public class Tttt {
 		System.out.println("helo");
 		System.out.println("heloooo");
 		System.out.println("helo11");
-		int a,b;
+		int a,b,c;
 	}
 }
